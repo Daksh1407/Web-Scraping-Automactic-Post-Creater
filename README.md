@@ -3,9 +3,10 @@
 
 This project basically use the NEWS API to scrap the news from the website "https://www.businesstoday.in/technology/news".
 
-IFeatures of Project--
-1. It automatically creates a post which consolidate the news and can easy be download by just one click on "Download".
-2. It uses the NEWS API's for scraping the data so the data is sync with time as well(Provide the latest Update). 
+Features of Project--
+1. It uses the NEWS API's for scraping the data so the data is sync with time as well(Provide the latest Update). 
+2. It automatically creates a post which consolidate the news and can easy be download by just one click on "Download".
+3. Different templates are there.(User have the choices to select different templates as an post)
 Web Scrapping is also used by the companies as well to basically scrap the data like comments, customer review etc..
 Steps for set-up the software application-
 1. Install the pyhton and flask in the system.
