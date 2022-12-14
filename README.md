@@ -1,6 +1,12 @@
 # Web-Scraping-Automactic-Post-Creater.
+
+This project basically use the NEWS API to scrap the news from the website "https://www.businesstoday.in/technology/news".
+Its also create a post which integrate the news and its very benificial for the creator as well. 
+Web Scrapping is also used by the companies as well to basically scrap the data like comments, customer review etc..
 Steps for set-up the software application-
 1. Install the pyhton and flask in the system.
 2. Install beauifulsoup(Python package for parsing HTML and XML documents.) which help in web scraping.
 3. check the versions and installtion in cmd with suitable commands
-4. open in vs code and type th command in console flask run.
+__->For run the project..
+1. Open in vs code and type the command in console flask run.
+2. It automatically create a post(kind of insta, twiter posts) which we can also download as well.
