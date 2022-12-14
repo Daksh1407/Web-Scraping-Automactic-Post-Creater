@@ -1,4 +1,5 @@
 # Web-Scraping-Automactic-Post-Creater.
+![Interface tech](https://user-images.githubusercontent.com/102173748/207721327-11a8d4e6-f641-4639-a2e1-00267e488bbf.png)
 
 This project basically use the NEWS API to scrap the news from the website "https://www.businesstoday.in/technology/news".
 Its also create a post which integrate the news and its very benificial for the creator as well. 
